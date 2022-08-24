@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.13" apprev="18080" start="node1">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="294">
+      <start pan="118.096" tilt="-14.2124" projection="4" fov="41.11"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9730769,112.6086482,3a,75y,175.9h,90t/data=!3m4!1e1!3m2!1sAF1QipPh6JRscALTHF-dMfvBeJ4mKEvnxEw5BzjbO_9M!2e10" comment="" tags="FTT" longitude="112.60864824" customnodeid="" heading="294" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97307694" author="" nodeid="node1"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="-8.1/-5.6/100.0" url="{node2}" id="Poly01" description="" title="">
+        <polystring>-187.43/14.52|-239.24/14.99|-239.07/-9.36|-234.62/-5.72|-194.89/-5.54|-188.11/-2.99</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-147.67" tilt="-6.25" skinid="ht_info" url="" id="Point01" description="" title="AREA PARKIR"/>
+      <hotspot target="" pan="-174.26" tilt="1.08" skinid="ht_info" url="" id="Point02" description="" title="KOPRASI UNMER"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="119">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731042,112.6086583,3a,75y,119h,90t/data=!3m4!1e1!3m2!1sAF1QipMzdbXBcIy6zJIVOEQtTn9UVx29Ia-0r7jZkNJC!2e10" comment="" tags="FTT" longitude="112.60865830" customnodeid="" heading="119" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97310417" author="" nodeid="node2"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="-19.1/-1.9/41.1" url="{node1}" id="Poly01" description="" title="">
+        <polystring>-153.42/16.76|-154.83/-14.65|-234.83/-15.09|-234.85/15.97</polystring>
+      </polyhotspot>
+      <polyhotspot target="175.8/-2.6/100.0" url="{node3}" id="Poly02" description="" title="">
+        <polystring>-348.76/13.16|-348.4/-14.43|-18.21/-16.43|-18.82/13.87</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-47">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731261,112.6086851,3a,75y,313h,90t/data=!3m4!1e1!3m2!1sAF1QipPXeVC_Zc_FTu55ASgE2AGvCAjC9v8hR7RH0L4C!2e10" comment="" tags="FTT" longitude="112.60868512" customnodeid="" heading="-47" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97312608" author="" nodeid="node3"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="167.4/-11.4/100.0" url="{node2}" id="Poly01" description="" title="">
+        <polystring>-346.22/28.02|-345.2/-21.83|-25.73/-22.65|-25.06/27.29</polystring>
+      </polyhotspot>
+      <polyhotspot target="139.7/-4.1/100.0" url="{node4}" id="Poly02" description="" title="">
+        <polystring>-123.43/25.13|-125.25/-9.75|-121.5/-10.65|-113.37/-16.11|-109.89/-20.89|-107.44/-24.76|-107.22/-28.42|-171.78/-27.05|-177.06/-11.7|-168.41/-8.67|-171.76/24.1</polystring>
+      </polyhotspot>
+      <polyhotspot target="55.0/2.5/100.0" url="{node5}" id="Poly03" description="" title="">
+        <polystring>-242.65/16.08|-216.19/18.04|-184.73/16.45|-176.62/11.76|-177.06/-0.7|-178.04/-14.39|-242.68/-25.56</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731281,112.6087086,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipM7xFHLOPHVdTkvba8lzy7UTCgKkfdDwTXkCn7G!2e10" comment="" tags="FTT" longitude="112.60870859" customnodeid="" heading="0" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97312808" author="" nodeid="node4"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="0.0/0.0/100.0" url="{node3}" id="Poly01" description="" title="">
+        <polystring>-341.53/11.38|-327.59/11.28|-304.72/17.37|-304.02/-20.68|-341.14/-26.13</polystring>
+      </polyhotspot>
+      <polyhotspot target="54.2/4.4/100.0" url="{node5}" id="Poly02" description="" title="">
+        <polystring>-274.65/10.62|-255.3/14.13|-244.24/10.41|-234.16/9.67|-224.16/9.1|-250.43/-18.98|-294.02/-19.48|-295.32/10.19</polystring>
+      </polyhotspot>
+      <polyhotspot target="140.7/-4.1/100.0" url="{node6}" id="Poly03" description="" title="">
+        <polystring>-216.1/-25.65|-161.38/-30.2|-158.13/32.78|-216.18/28.85|-216.19/28.59</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731513,112.6086784,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipPeQ4xLkvNT-VqH050Q9G1zVlRq_oy9j7k0Zd81!2e10" comment="" tags="FTT" longitude="112.60867842" customnodeid="" heading="0" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97315132" author="" nodeid="node5"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="136.0/-0.9/100.0" url="{node4}" id="Poly01" description="" title="">
+        <polystring>-301.73/16.81|-280.22/14.16|-266.33/19.7|-265.02/-8.05|-276.35/-13.49|-300.64/-12.98</polystring>
+      </polyhotspot>
+      <polyhotspot target="-5.4/-1.6/100.0" url="{node3}" id="Poly02" description="" title="">
+        <polystring>-264.34/19.9|-264.7/-8.98|-263.42/-18.26|-248.36/-17.83|-248.85/18.68</polystring>
+      </polyhotspot>
+      <polyhotspot target="122.5/-0.9/100.0" url="{node6}" id="Poly03" description="" title="">
+        <polystring>-304.34/17.09|-303.94/2.65|-326.96/12.74|-334.44/11.1|-334.53/18.47|-329.95/19.97|-327.78/21.2|-327.24/23.22</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-63.32" tilt="-2.22" skinid="ht_info" url="" id="Point01" description="" title="AREA D-3 PERBANKAN DAN KEUANGAN"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="320">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731334,112.6087381,3a,75y,320h,90t/data=!3m4!1e1!3m2!1sAF1QipPcjNsafnajRPdpXbRnXLwwqWHqEwZv6LHKJQ25!2e10" comment="" tags="FTT" longitude="112.60873809" customnodeid="" heading="320" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97313339" author="" nodeid="node6"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="39.6/-3.8/100.0" url="{node4}" id="Poly01" description="" title="">
+        <polystring>-210.69/-23.27|-170.02/-25.18|-169.87/20.06|-209.67/31.03|-213.77/31.43</polystring>
+      </polyhotspot>
+      <polyhotspot target="174.3/-1.6/100.0" url="{node7}" id="Poly02" description="" title="">
+        <polystring>-263.12/-20.66|-218.54/-23.34|-221.42/32.11|-264.12/25.7</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-94.38" tilt="-7.28" skinid="ht_info" url="" id="Point01" description="" title="AREA D-3 PERBANKAN DAN KEUANGAN"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="305">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731447,112.6087227,3a,75y,305h,90t/data=!3m4!1e1!3m2!1sAF1QipOoo0i_W7vQxRCOGfGdNO5j8fgFxYd2PTLrYq6y!2e10" comment="" tags="FTT" longitude="112.60872267" customnodeid="" heading="305" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97314468" author="" nodeid="node7"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="63.5/-3.1/100.0" url="{node8}" id="Poly01" description="" title="">
+        <polystring>-220.81/-32.86|-151.88/-32.67|-149.44/-6.67|-160.02/5.2|-142.95/13.05|-147.37/36.32|-219.79/37.74</polystring>
+      </polyhotspot>
+      <polyhotspot target="138.9/4.8/100.0" url="{node6}" id="Poly02" description="" title="">
+        <polystring>-144.65/-31.14|-105.47/-19.24|-105.41/24.66|-145.53/44.34|-142.28/11.63|-155.46/6.66|-148.67/-8.19</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-276.42" tilt="-2.15" skinid="ht_info" url="" id="Point01" description="" title="AREA D-3 PERBANKAN DAN KEUANGAN"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="248">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731507,112.6087508,3a,75y,248h,90t/data=!3m4!1e1!3m2!1sAF1QipN7RAgdugmxm4Z0Crdoy8WR5YDFj20sNuv9Ta2W!2e10" comment="" tags="FTT" longitude="112.60875083" customnodeid="" heading="248" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97315066" author="" nodeid="node8"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="135.8/-1.7/100.0" url="{node17}" id="Poly01" description="" title="">
+        <polystring>-179.31/-3.39|-178.28/-10.14|-170.21/-11.3|-155.62/-10.08|-158.66/12.87|-183.2/15.87|-203.24/12.03|-202.49/-2.48</polystring>
+      </polyhotspot>
+      <polyhotspot target="-134.3/9.4/100.0" url="{node7}" id="Poly02" description="" title="">
+        <polystring>-223.21/31.91|-225.69/-32.93|-288.38/-33.52|-292.42/-15.26|-271.91/-6.74|-291.92/29.27|-291.92/29.27</polystring>
+      </polyhotspot>
+      <polyhotspot target="25.4/4.3/100.0" url="{node9}" id="Poly03" description="" title="">
+        <polystring>-340.82/-20.81|-301.64/-21.61|-299.57/11.24|-317.14/12.17|-341.42/21.69</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-141.07" tilt="-3.66" skinid="ht_info" url="" id="Point01" description="" title="LAB C"/>
+      <hotspot target="" pan="-148.54" tilt="-3.62" skinid="ht_info" url="" id="Point02" description="" title="LAB D"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="198">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731951,112.6087113,3a,75y,198h,90t/data=!3m4!1e1!3m2!1sAF1QipMMGpsn_2zOziWUPS754RzpQ1GveG35XYVc2cGN!2e10" comment="" tags="FTT" longitude="112.60871127" customnodeid="" heading="198" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97319515" author="" nodeid="node9"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="-166.9/-6.1/100.0" url="{node8}" id="Poly01" description="" title="">
+        <polystring>-232.72/-15.52|-209.41/-11.45|-208.62/21.95|-236.46/26.5|-234.96/13.68|-248.55/5.29|-246.31/-2.16|-241.11/-5.18|-235.47/-4.4</polystring>
+      </polyhotspot>
+      <polyhotspot target="0.0/0.0/100.0" url="{node18}" id="Poly02" description="" title="">
+        <polystring>-316.36/-34.14|-245.89/-34.99|-245.86/-10.04|-266.46/16.66|-238.76/27.75|-244.52/42.93|-318.73/38.29</polystring>
+      </polyhotspot>
+      <polyhotspot target="-50.6/0.5/100.0" url="{node10}" id="Poly03" description="" title="">
+        <polystring>-27.61/-20.04|-351.4/-20.13|-342.96/-10.13|-347.91/-6.05|-322.28/-3.93|-322.9/7.11|-15.13/8.26|-28.03/20.35</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-166.21" tilt="-1.55" skinid="ht_info" url="" id="Point01" description="ruang b" title=""/>
+      <hotspot target="" pan="-33.91" tilt="-8.63" skinid="ht_info" url="" id="Point02" description="" title="LAB A"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="93">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9733399,112.6087897,3a,75y,93h,90t/data=!3m4!1e1!3m2!1sAF1QipP_9F8w78EQAHK0SYZe_G2IOtBCON2ovnGAJpxu!2e10" comment="" tags="FTT" longitude="112.60878973" customnodeid="" heading="93" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97333992" author="" nodeid="node10"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="118.2/-2.2/100.0" url="{node9}" id="Poly01" description="" title="">
+        <polystring>-319.53/-11.81|-297.98/-11.25|-298.48/13.47|-305.82/10.01|-321.81/13.07|-321.5/-3.18</polystring>
+      </polyhotspot>
+      <polyhotspot target="0.0/0.0/100.0" url="{node18}" id="Poly02" description="" title="">
+        <polystring>-324.23/-1.76|-331.09/-9.73|-356.29/-1.62|-357.24/13.38|-354.03/18.94|-326.68/22.93|-324.11/18.73</polystring>
+      </polyhotspot>
+      <polyhotspot target="0.0/0.0/100.0" url="{node11}" id="Poly03" description="" title="">
+        <polystring>-285.89/19.53|-204.7/31.15|-205.34/-22.36|-285.86/-15</polystring>
+      </polyhotspot>
+      <polyhotspot target="-8.7/-4.5/100.0" url="{node12}" id="Poly04" description="" title="">
+        <polystring>-80.76/12.64|-40.47/13.51|-36.29/-20.39|-92.45/-15.91|-91.07/11.54</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-290.48" tilt="-3.58" skinid="ht_info" url="" id="Point01" description="" title="LAB A"/>
+      <hotspot target="" pan="-256.62" tilt="4.1" skinid="ht_info" url="" id="Point02" description="" title="RUANG ADMINISTRASI"/>
+      <hotspot target="" pan="-165.91" tilt="4.04" skinid="ht_info" url="" id="Point03" description="" title="RUANG KA. PRODI D3 SISTEM INFORMASI"/>
+      <hotspot target="" pan="-140.91" tilt="3.37" skinid="ht_info" url="" id="Point04" description="" title="RUANG DEKAN"/>
+      <hotspot target="_blank" pan="-52.96" tilt="3" skinid="ht_url" url="https://www.youtube.com/watch?v=pfU6OBMAqXg&amp;t=7s" id="Point05" description="" title="PROFILE FTI"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-106">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9732854,112.6087247,3a,75y,254h,90t/data=!3m4!1e1!3m2!1sAF1QipNRz6mX7li3fDpmpWkyxqtosZgDUAfavxWZp5OO!2e10" comment="" tags="FTT" longitude="112.60872468" customnodeid="" heading="-106" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97328545" author="" nodeid="node11"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="-53.8/-0.1/100.0" url="{node10}" id="Poly01" description="" title="">
+        <polystring>-250.44/29.66|-166.58/29.01|-166.99/-1.24|-176.82/-11.05|-176.82/-26.33|-211.12/-31.01|-249.34/-24.87|-250.41/-7.34</polystring>
+      </polyhotspot>
+      <hotspot target="_blank" pan="-315.61" tilt="0.28" skinid="ht_url" url="https://api.whatsapp.com/send/?phone=6281515804401&amp;text=Halo%20Admin%20FTI,%20Tolong%20Info%20&amp;type=phone_number&amp;app_absent=0" id="Point01" description="" title="CP FTI"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="139">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9733014,112.6088702,3a,75y,139h,90t/data=!3m4!1e1!3m2!1sAF1QipN48po_EtEwvTxvLAP5FU-9TjBToEjsj-9IFQ3G!2e10" comment="" tags="FTT" longitude="112.60887019" customnodeid="" heading="139" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97330141" author="" nodeid="node12"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="1.5/-7.2/100.0" url="{node13}" id="Poly01" description="" title="">
+        <polystring>-19.86/18.03|-359.26/19.03|-358.28/-21.92|-15.8/-28.15|-24.71/-23.97|-25.45/24.6</polystring>
+      </polyhotspot>
+      <polyhotspot target="74.7/-5.0/100.0" url="{node10}" id="Poly02" description="" title="">
+        <polystring>-249.36/-23.2|-212.92/-23.05|-212.85/30.8|-249.54/31.49</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-87.86" tilt="-0.92" skinid="ht_info" url="" id="Point01" description="" title="RUANG DOSEN"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="141">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.973243,112.6089413,3a,75y,141h,90t/data=!3m4!1e1!3m2!1sAF1QipMNHMm-YMhyUerxXotZg5JsHateMO6JT2kIKwGQ!2e10" comment="" tags="FTT" longitude="112.60894127" customnodeid="" heading="141" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97324296" author="" nodeid="node13"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="0.5/-5.7/100.0" url="{node16}" id="Poly01" description="" title="">
+        <polystring>-15.86/-24.79|-347.78/-23.31|-349.66/25.27|-16.93/26.43</polystring>
+      </polyhotspot>
+      <polyhotspot target="76.4/-2.6/100.0" url="{node14}" id="Poly02" description="" title="">
+        <polystring>-326.91/25.6|-306.32/18.32|-304.92/-31.79|-324.78/-42.07</polystring>
+      </polyhotspot>
+      <polyhotspot target="-0.1/-8.5/100.0" url="{node15}" id="Poly03" description="" title="">
+        <polystring>-236.21/21.96|-217.38/29.75|-217.58/-40.6|-236.31/-30.6</polystring>
+      </polyhotspot>
+      <polyhotspot target="124.2/-4.9/100.0" url="{node12}" id="Poly04" description="" title="">
+        <polystring>-191.43/-18.76|-169.39/-16.55|-169.11/21.39|-191.72/28.74</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9732343,112.6089292,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipOn1AKNzmn76AgNDPBuCCQzLRKld8zMAFTT8oCr!2e10" comment="" tags="FTT" longitude="112.60892920" customnodeid="" heading="0" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97323433" author="" nodeid="node14"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="-141.2/-6.1/100.0" url="{node13}" id="Poly01" description="" title="">
+        <polystring>-305.17/12.49|-304.5/-21.71|-317.88/-24.53|-319.61/13.86</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="189">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9732503,112.6089279,3a,75y,189h,90t/data=!3m4!1e1!3m2!1sAF1QipNu_EMUyCJ30rFZRQUN6if124u6aynO3nKidNBg!2e10" comment="" tags="FTT" longitude="112.60892786" customnodeid="" heading="189" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97325026" author="" nodeid="node15"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="-21.4/-5.9/100.0" url="{node13}" id="Poly01" description="" title="">
+        <polystring>-317.05/17.68|-315.62/-22.87|-335.8/-28.46|-337.03/19.31</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-35">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731573,112.6089111,3a,75y,325h,90t/data=!3m4!1e1!3m2!1sAF1QipNObgkMwief_KpTo1_il5REPMcndSpgHfVIsWxh!2e10" comment="" tags="FTT" longitude="112.60891110" customnodeid="" heading="-35" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97315730" author="" nodeid="node16"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="32.5/-3.5/100.0" url="{node17}" id="Poly01" description="" title="">
+        <polystring>-20.18/-22.21|-347.18/-22.91|-348.45/26.73|-20.48/25.43</polystring>
+      </polyhotspot>
+      <polyhotspot target="176.8/-2.5/100.0" url="{node13}" id="Poly02" description="" title="">
+        <polystring>-238.85/-16.34|-217.05/-16.21|-217.26/24.36|-239.93/26.88</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-125.51" tilt="2.73" skinid="ht_info" url="" id="Point01" description="" title="RUANG ASISTEN LABORATORIUM"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-107">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9730876,112.6088353,3a,75y,253h,90t/data=!3m4!1e1!3m2!1sAF1QipN1jW9nPm4JVuX6UX6W4ogAhVjvlXrx1bh-FqiD!2e10" comment="" tags="FTT" longitude="112.60883532" customnodeid="" heading="-107" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97308757" author="" nodeid="node17"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="59.4/-1.0/100.0" url="{node8}" id="Poly01" description="" title="">
+        <polystring>-358.07/-15.2|-328.05/-15.68|-329.91/14.09|-350.67/8.39|-359.88/15.52</polystring>
+      </polyhotspot>
+      <polyhotspot target="125.2/-3.4/100.0" url="{node16}" id="Poly02" description="" title="">
+        <polystring>-231.66/-10.41|-216.49/-9.14|-217.63/15.71|-232.09/16.21</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-7.76" tilt="-4.3" skinid="ht_info" url="" id="Point01" description="" title="LAB D"/>
+      <hotspot target="" pan="-1.17" tilt="-3.79" skinid="ht_info" url="" id="Point02" description="" title="LAB C"/>
+      <hotspot target="" pan="-197.8" tilt="-0.6" skinid="ht_info" url="" id="Point03" description="" title="LAB E"/>
+      <hotspot target="" pan="-208" tilt="-0.24" skinid="ht_info" url="" id="Point04" description="" title="LAB F"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="212">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731407,112.6087984,3a,75y,212h,90t/data=!3m4!1e1!3m2!1sAF1QipOranOQ92fd7qTfp7ezIphLVg6lKA88gtW0Sl_Y!2e10" comment="" tags="FTT" longitude="112.60879844" customnodeid="" heading="212" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97314070" author="" nodeid="node18"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="171.9/-7.3/100.0" url="{node9}" id="Poly01" description="" title="">
+        <polystring>-338.04/-36.7|-278.58/-34.22|-285.76/26.48|-304.02/10.37|-334.52/7.11</polystring>
+      </polyhotspot>
+      <polyhotspot target="-60.0/-5.5/100.0" url="{node19}" id="Poly02" description="" title="">
+        <polystring>-23.93/-15.49|-356.9/-18.3|-356.75/-6.72|-345.83/-4.06|-346.93/5.7|-15.32/6.44|-23.13/8.64</polystring>
+      </polyhotspot>
+      <polyhotspot target="-119.1/-4.5/100.0" url="{node24}" id="Poly03" description="" title="">
+        <polystring>-234.26/-8.91|-195.81/-10.56|-195.41/16.6|-201.21/12.61|-214.53/12.15|-237.27/11.31|-256.94/8.39|-258.9/-2.41|-238.62/-2.53</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-177.62" tilt="-0.58" skinid="ht_info" url="" id="Point01" description="" title="RUANG 4.2"/>
+      <hotspot target="" pan="-187.38" tilt="0.12" skinid="ht_info" url="" id="Point02" description="" title="RUANG 4.1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="57">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.973231,112.6087622,3a,75y,57h,90t/data=!3m4!1e1!3m2!1sAF1QipOCx7yA5Hxy9D7jxixclyUJnWgXzwRs-VJc9VbR!2e10" comment="" tags="FTT" longitude="112.60876223" customnodeid="" heading="57" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97323100" author="" nodeid="node19"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="-120.0/-5.6/100.0" url="{node20}" id="Poly01" description="" title="">
+        <polystring>-122.16/-15.93|-55.22/-22.97|-54.83/-13.4|-51.32/-9.19|-50.82/10.82|-102.43/16.07|-121.4/19.54</polystring>
+      </polyhotspot>
+      <polyhotspot target="134.3/6.9/100.0" url="{node18}" id="Poly02" description="" title="">
+        <polystring>-290.68/-14.66|-267.24/-12.7|-268.1/13.06|-311.44/16.6|-311.05/-2.87|-308.68/-3.62|-296.51/-6.78</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-195.52" tilt="-0.19" skinid="ht_info" url="" id="Point01" description="" title="LAB G"/>
+      <hotspot target="" pan="-172.18" tilt="-0.19" skinid="ht_info" url="" id="Point02" description="" title="LAB K"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-28">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9732801,112.6088025,3a,75y,332h,90t/data=!3m4!1e1!3m2!1sAF1QipM9mKkw9S3A3Tul1Qj0hCRg8YSC8r88kbnpIH0h!2e10" comment="" tags="FTT" longitude="112.60880247" customnodeid="" heading="-28" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97328015" author="" nodeid="node20"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="76.5/-10.5/100.0" url="{node19}" id="Poly01" description="" title="">
+        <polystring>-1.31/-14.52|-322.93/-11.98|-323.4/19.5|-343.68/9.35|-346.13/5.88|-2.23/7.08</polystring>
+      </polyhotspot>
+      <polyhotspot target="120.9/-7.0/100.0" url="{node21}" id="Poly02" description="" title="">
+        <polystring>-136.46/-19.82|-60.01/-24.83|-66.98/12.51|-104.52/16.64|-114.73/14.42|-128.75/21.3</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-213.07" tilt="-0.95" skinid="ht_info" url="" id="Point01" description="" title="RUANH DEWAN PERWAKILAN MAHASISWA"/>
+      <hotspot target="" pan="-191.93" tilt="-0.9" skinid="ht_info" url="" id="Point02" description="" title="RUANG BEM FTI"/>
+      <hotspot target="" pan="-135.2" tilt="-0.55" skinid="ht_info" url="" id="Point03" description="" title="RUANG 4.3"/>
+      <hotspot target="" pan="-312.08" tilt="-3.72" skinid="ht_info" url="" id="Point04" description="" title="LAB K"/>
+      <hotspot target="" pan="-319.66" tilt="-3.51" skinid="ht_info" url="" id="Point05" description="" title="LAB G"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-188">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9732589,112.60884,3a,75y,172h,90t/data=!3m4!1e1!3m2!1sAF1QipMh3IhiOm1UIDhBjR6WXYXRqyoolWfuvIdCsGum!2e10" comment="" tags="FTT" longitude="112.60884002" customnodeid="" heading="-188" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97325890" author="" nodeid="node21"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="32.3/-2.7/100.0" url="{node20}" id="Poly01" description="" title="">
+        <polystring>-118.12/-14.75|-63.14/-16.21|-63.05/17.24|-76.93/13.77|-120.84/9.54|-121.75/-7.37|-121.75/-7.37</polystring>
+      </polyhotspot>
+      <polyhotspot target="-83.1/-1.3/100.0" url="{node22}" id="Poly02" description="" title="">
+        <polystring>-284.4/-31.64|-246.4/-36.88|-247.23/38.93|-287.44/37.46</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-26.12" tilt="-7.73" skinid="ht_info" url="" id="Point01" description="" title="RUANG 4.3"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-72">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9732297,112.6088829,3a,75y,288h,90t/data=!3m4!1e1!3m2!1sAF1QipOKstRx3WiHSbBS94bZi7iRunWa39NCZx2iDhB4!2e10" comment="" tags="FTT" longitude="112.60888293" customnodeid="" heading="-72" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97322968" author="" nodeid="node22"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="75.1/0.2/100.0" url="{node23}" id="Poly01" description="" title="">
+        <polystring>-101.28/-18.11|-77.94/-22.32|-77.64/21.37|-100/22.04</polystring>
+      </polyhotspot>
+      <polyhotspot target="-102.4/-4.4/100.0" url="{node21}" id="Poly02" description="" title="">
+        <polystring>-278.36/-19.28|-255.67/-16.97|-256.73/24.08|-279.38/24.33</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-177.2" tilt="-3.69" skinid="ht_info" url="" id="Point01" description="" title="RUANG 4.4"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="29">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731619,112.6088802,3a,75y,29h,90t/data=!3m4!1e1!3m2!1sAF1QipN5hsCcSAfcxmk87vuOAu6dVP5POtFSMBnoYOSO!2e10" comment="" tags="FTT" longitude="112.60888025" customnodeid="" heading="29" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97316194" author="" nodeid="node23"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="90.5/-2.0/100.0" url="{node22}" id="Poly01" description="" title="">
+        <polystring>-159.06/-17.47|-132.21/-16.98|-129.68/24.3|-157.99/27.83</polystring>
+      </polyhotspot>
+      <polyhotspot target="127.8/-2.5/100.0" url="{node24}" id="Poly02" description="" title="">
+        <polystring>-298.41/-26.9|-270.71/-22.53|-272.28/29.66|-300.4/32.28</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-72.17" tilt="1.3" skinid="ht_info" url="" id="Point01" description="" title="LAB JARINGAN"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbiashidpi="1.000" height="1520" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata copyright="" streetviewlink="https://www.google.com/maps/@-7.9731354,112.608836,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipN4Jwsk_dvfMeRco6jlGpqKOMpeh6V42C2kg3o2!2e10" comment="" tags="FTT" longitude="112.60883599" customnodeid="" heading="0" source="" description="" datetime="27/06/2022 15:47" title="Faculty of Information Technology" info="" latitude="-7.97313538" author="" nodeid="node24"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" textalpha="1" textcolor="0x000000" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot target="0.0/-3.9/100.0" url="{node18}" id="Poly01" description="" title="">
+        <polystring>-264.35/-11.81|-229.68/-9.27|-229.8/12.34|-254.44/15.09|-265.55/22.9</polystring>
+      </polyhotspot>
+      <polyhotspot target="-123.5/-5.2/100.0" url="{node23}" id="Poly02" description="" title="">
+        <polystring>-141.54/-12.33|-110.87/-14.78|-110.26/16.41|-127.59/14.78|-142.01/15.15</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-25.02" tilt="-5.26" skinid="ht_info" url="" id="Point01" description="" title="LAB HARDWARE"/>
+      <hotspot target="" pan="-285.52" tilt="-1.11" skinid="ht_info" url="" id="Point02" description="" title="RUANG 4.1"/>
+      <hotspot target="" pan="-277.57" tilt="-0.8" skinid="ht_info" url="" id="Point03" description="" title="RUANG 4.2"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomout="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" enabled="1" zoomafterinfov="90" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <autorotate speed="0.400" delay="5.00" startloaded="0" enabled="1" nodefilter="" noderandom="1" nodedelay="0.00" returntohorizon="0.000" useanimation="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextprojections="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" invertcontrol="1" contextvr="0" hideabout="0" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" comment="" tags="" longitude="" customnodeid="" heading="0" source="" description="" datetime="" title="" info="" latitude="" author="" nodeid="master"/>
+  </masternode>
+</tour>
